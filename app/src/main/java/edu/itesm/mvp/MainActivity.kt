@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun suma(): Int{
+    fun suma(a: Int, b: Int): Int{
         return 0
     }
 }
